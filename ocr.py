@@ -1,6 +1,5 @@
 import cv2
 import pytesseract
-from PIL import Image
 import re
 
 def im2txt(filename):
@@ -17,4 +16,3 @@ def im2txt(filename):
     text = re.sub('[^A-Za-z0-9,.]+', ' ', text)
     return text
 
-print(im2txt("sample1.jpg"))

@@ -4,7 +4,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 # **INFRAMIND SEASON-04**
 
-![](image2.jpg) ![](image3.jpg)
+![](readme/image2.jpg) ![](readme/image3.jpg)
 
 ## **Round 2 Submission Document**
 
@@ -12,17 +12,17 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 Maheshwari. B DT20184410150 [mahibaskaran08@gmail.com](mailto:mahibaskaran08@gmail.com)
 
-![](image4.jpg)
+![](readme/image4.jpg)
 
 Video Presentation Link
 
 https://youtu.be/Oy-fhSi3BJs
 
-![](image5.jpg)
+![](readme/image5.jpg)
 
 GitHub Link
 
-![](RackMultipart20210221-4-1f17f6m_html_90895f27accc7f60.gif)
+![](readme/image6.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -46,11 +46,11 @@ Keeping the problem statement in mind, I have successfully developed a web appli
 - Python
 - Libraries - Flask, Open CV, Tesseract, Werkzeug
 
-![](RackMultipart20210221-4-1f17f6m_html_6b3aab1f3a9ecf95.png) ![](RackMultipart20210221-4-1f17f6m_html_326feb410bb7e30c.png) ![](RackMultipart20210221-4-1f17f6m_html_dd820b1d279dfb64.png)
+![](readme/image7.jpg) ![](readme/image8.jpg) ![](readme/image9.jpg)
 
-![](RackMultipart20210221-4-1f17f6m_html_4cb5f143c21bd3d1.png) ![](RackMultipart20210221-4-1f17f6m_html_daf53550fed22a4f.png)
+![](readme/image9.jpg) ![](readme/image10.jpg)
 
-![](RackMultipart20210221-4-1f17f6m_html_306902097c34052b.gif)
+![](readme/image11.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -78,7 +78,7 @@ Open-CV is a library function of Python  bindings designed to solve computer vis
 
 Wikzeug is the comprehensive web application library. It is a simple collection of various utilities for WSGI applications and has become one of the most advanced WSGI utility libraries. It is handled while providingmore structure and patterns for defining powerful applications.
 
-![](RackMultipart20210221-4-1f17f6m_html_1e804a2bd876832d.gif) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1f17f6m_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1f17f6m_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1f17f6m_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1f17f6m_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1f17f6m_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1f17f6m_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1f17f6m_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1f17f6m_html_b9342246ed85f5c9.gif)
+ ![](readme/image12.jpg) ![](readme/image13.jpg) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1f17f6m_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1f17f6m_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1f17f6m_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1f17f6m_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1f17f6m_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1f17f6m_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1f17f6m_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1f17f6m_html_b9342246ed85f5c9.gif)
 
 **Processing**
 
@@ -104,7 +104,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 The Architecture for this web application is described below,
 
-![](RackMultipart20210221-4-1f17f6m_html_11e4aad8ae74e572.png)
+![](readme/image14.jpg)
 
 **COST SAVING:**
 

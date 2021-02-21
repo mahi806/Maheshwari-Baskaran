@@ -22,7 +22,6 @@ https://youtu.be/Oy-fhSi3BJs
 
 GitHub Link
 
-![](readme/image5.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -46,11 +45,11 @@ Keeping the problem statement in mind, I have successfully developed a web appli
 - Python
 - Libraries - Flask, Open CV, Tesseract, Werkzeug
 
-![](readme/image6.jpg) ![](readme/image7.jpg) ![](readme/image8.jpg)
+![](readme/image5.jpg) ![](readme/image6.jpg) ![](readme/image7.jpg)
 
-![](readme/image9.jpg) ![](readme/image10.jpg)
+![](readme/image8.jpg) ![](readme/image9.jpg)
 
-![](readme/image11.jpg)
+![](readme/image10.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -78,7 +77,7 @@ Open-CV is a library function of Python  bindings designed to solve computer vis
 
 Wikzeug is the comprehensive web application library. It is a simple collection of various utilities for WSGI applications and has become one of the most advanced WSGI utility libraries. It is handled while providingmore structure and patterns for defining powerful applications.
 
- ![](readme/image12.jpg) ![](readme/image13.jpg) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1f17f6m_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1f17f6m_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1f17f6m_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1f17f6m_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1f17f6m_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1f17f6m_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1f17f6m_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1f17f6m_html_b9342246ed85f5c9.gif)
+ ![](readme/image11.jpg) ![](readme/image12.jpg) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1f17f6m_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1f17f6m_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1f17f6m_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1f17f6m_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1f17f6m_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1f17f6m_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1f17f6m_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1f17f6m_html_b9342246ed85f5c9.gif)
 
 **Processing**
 
@@ -104,7 +103,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 The Architecture for this web application is described below,
 
-![](readme/image14.jpg)
+![](readme/image13.jpg)
 
 **COST SAVING:**
 

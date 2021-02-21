@@ -1,10 +1,10 @@
-![](RackMultipart20210221-4-1f17f6m_html_6a7b172cdb7071f7.gif)
+![](image1.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
 # **INFRAMIND SEASON-04**
 
-![](RackMultipart20210221-4-1f17f6m_html_39d189d5283bf502.png) ![](RackMultipart20210221-4-1f17f6m_html_15d67be834859759.png)
+![](image2.jpg) ![](image3.jpg)
 
 ## **Round 2 Submission Document**
 
@@ -12,13 +12,13 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 Maheshwari. B DT20184410150 [mahibaskaran08@gmail.com](mailto:mahibaskaran08@gmail.com)
 
-![](RackMultipart20210221-4-1f17f6m_html_7997556cf44b5e23.png)
+![](image4.jpg)
 
 Video Presentation Link
 
 https://youtu.be/Oy-fhSi3BJs
 
-![](RackMultipart20210221-4-1f17f6m_html_fcf8d4b94e1a5df3.png)
+![](image5.jpg)
 
 GitHub Link
 

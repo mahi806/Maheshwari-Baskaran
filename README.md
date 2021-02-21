@@ -1,4 +1,4 @@
-![](image1.jpg)
+![](readme/image1.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 

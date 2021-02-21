@@ -4,7 +4,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 # **INFRAMIND SEASON-04**
 
-![](readme/image2.jpg) ![](readme/image3.jpg)
+![](readme/image2.jpg)
 
 ## **Round 2 Submission Document**
 
@@ -12,17 +12,17 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 Maheshwari. B DT20184410150 [mahibaskaran08@gmail.com](mailto:mahibaskaran08@gmail.com)
 
-![](readme/image4.jpg)
+![](readme/image3.jpg)
 
 Video Presentation Link
 
 https://youtu.be/Oy-fhSi3BJs
 
-![](readme/image5.jpg)
+![](readme/image4.jpg)
 
 GitHub Link
 
-![](readme/image6.jpg)
+![](readme/image5.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -46,7 +46,7 @@ Keeping the problem statement in mind, I have successfully developed a web appli
 - Python
 - Libraries - Flask, Open CV, Tesseract, Werkzeug
 
-![](readme/image7.jpg) ![](readme/image8.jpg) ![](readme/image9.jpg)
+![](readme/image6.jpg) ![](readme/image7.jpg) ![](readme/image8.jpg)
 
 ![](readme/image9.jpg) ![](readme/image10.jpg)
 

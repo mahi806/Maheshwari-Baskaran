@@ -75,8 +75,7 @@ Open-CV is a library function of Python  bindings designed to solve computer vis
 **WIKZEUG:**
 
 Wikzeug is the comprehensive web application library. It is a simple collection of various utilities for WSGI applications and has become one of the most advanced WSGI utility libraries. It is handled while providingmore structure and patterns for defining powerful applications.
-
- ![](readme/image10.jpg) 
+ 
 
 **Processing**
 

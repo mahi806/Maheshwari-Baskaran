@@ -1,10 +1,10 @@
-![](RackMultipart20210221-4-1qjnu0d_html_6a7b172cdb7071f7.gif)
+![](RackMultipart20210221-4-1f17f6m_html_6a7b172cdb7071f7.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
 # **INFRAMIND SEASON-04**
 
-![](RackMultipart20210221-4-1qjnu0d_html_39d189d5283bf502.png) ![](RackMultipart20210221-4-1qjnu0d_html_15d67be834859759.png)
+![](RackMultipart20210221-4-1f17f6m_html_39d189d5283bf502.png) ![](RackMultipart20210221-4-1f17f6m_html_15d67be834859759.png)
 
 ## **Round 2 Submission Document**
 
@@ -12,17 +12,17 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 Maheshwari. B DT20184410150 [mahibaskaran08@gmail.com](mailto:mahibaskaran08@gmail.com)
 
-![](RackMultipart20210221-4-1qjnu0d_html_7997556cf44b5e23.png)
+![](RackMultipart20210221-4-1f17f6m_html_7997556cf44b5e23.png)
 
 Video Presentation Link
 
 https://youtu.be/Oy-fhSi3BJs
 
-![](RackMultipart20210221-4-1qjnu0d_html_fcf8d4b94e1a5df3.png)
+![](RackMultipart20210221-4-1f17f6m_html_fcf8d4b94e1a5df3.png)
 
 GitHub Link
 
-![](RackMultipart20210221-4-1qjnu0d_html_90895f27accc7f60.gif)
+![](RackMultipart20210221-4-1f17f6m_html_90895f27accc7f60.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -46,11 +46,11 @@ Keeping the problem statement in mind, I have successfully developed a web appli
 - Python
 - Libraries - Flask, Open CV, Tesseract, Werkzeug
 
-![](RackMultipart20210221-4-1qjnu0d_html_6b3aab1f3a9ecf95.png) ![](RackMultipart20210221-4-1qjnu0d_html_326feb410bb7e30c.png) ![](RackMultipart20210221-4-1qjnu0d_html_dd820b1d279dfb64.png)
+![](RackMultipart20210221-4-1f17f6m_html_6b3aab1f3a9ecf95.png) ![](RackMultipart20210221-4-1f17f6m_html_326feb410bb7e30c.png) ![](RackMultipart20210221-4-1f17f6m_html_dd820b1d279dfb64.png)
 
-![](RackMultipart20210221-4-1qjnu0d_html_4cb5f143c21bd3d1.png) ![](RackMultipart20210221-4-1qjnu0d_html_daf53550fed22a4f.png)
+![](RackMultipart20210221-4-1f17f6m_html_4cb5f143c21bd3d1.png) ![](RackMultipart20210221-4-1f17f6m_html_daf53550fed22a4f.png)
 
-![](RackMultipart20210221-4-1qjnu0d_html_306902097c34052b.gif)
+![](RackMultipart20210221-4-1f17f6m_html_306902097c34052b.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -78,7 +78,7 @@ Open-CV is a library function of Python  bindings designed to solve computer vis
 
 Wikzeug is the comprehensive web application library. It is a simple collection of various utilities for WSGI applications and has become one of the most advanced WSGI utility libraries. It is handled while providingmore structure and patterns for defining powerful applications.
 
-![](RackMultipart20210221-4-1qjnu0d_html_1e804a2bd876832d.gif) ![](RackMultipart20210221-4-1qjnu0d_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1qjnu0d_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1qjnu0d_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1qjnu0d_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1qjnu0d_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1qjnu0d_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1qjnu0d_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1qjnu0d_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1qjnu0d_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1qjnu0d_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1qjnu0d_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1qjnu0d_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1qjnu0d_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1qjnu0d_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1qjnu0d_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1qjnu0d_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1qjnu0d_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1qjnu0d_html_b9342246ed85f5c9.gif)
+![](RackMultipart20210221-4-1f17f6m_html_1e804a2bd876832d.gif) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_dc3f64548fc4aa71.gif) ![](RackMultipart20210221-4-1f17f6m_html_3d3ff3e4b0afb192.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b6e0798f0b833d3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cd9e6e74ddd627a3.gif) ![](RackMultipart20210221-4-1f17f6m_html_e83aa042b48b37ad.gif) ![](RackMultipart20210221-4-1f17f6m_html_e20de81dc59d7f8f.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_f994ef59ff9457d2.gif) ![](RackMultipart20210221-4-1f17f6m_html_b0ee60a1b501f183.gif) ![](RackMultipart20210221-4-1f17f6m_html_d4c89179794704.gif) ![](RackMultipart20210221-4-1f17f6m_html_28a85c341cb248b3.gif) ![](RackMultipart20210221-4-1f17f6m_html_7b740cd89b418d7b.gif) ![](RackMultipart20210221-4-1f17f6m_html_a71aab36782711c3.gif) ![](RackMultipart20210221-4-1f17f6m_html_cddfc47e1b6b5f6b.gif) ![](RackMultipart20210221-4-1f17f6m_html_e8f452f178840594.gif) ![](RackMultipart20210221-4-1f17f6m_html_6543dab956189985.gif) ![](RackMultipart20210221-4-1f17f6m_html_b9342246ed85f5c9.gif)
 
 **Processing**
 
@@ -104,7 +104,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 The Architecture for this web application is described below,
 
-![](RackMultipart20210221-4-1qjnu0d_html_11e4aad8ae74e572.png)
+![](RackMultipart20210221-4-1f17f6m_html_11e4aad8ae74e572.png)
 
 **COST SAVING:**
 
@@ -119,29 +119,29 @@ The Web application is developed to convert the printed characters in the photog
 3. Click **Submit** button.
 4. To convert another picture click **Convert Image to Text again** command.
 
-![](RackMultipart20210221-4-1qjnu0d_html_dc09bf1a70dfbe74.gif)
+![](RackMultipart20210221-4-1f17f6m_html_dc09bf1a70dfbe74.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
 **WORKFLOW:**
 
-![](RackMultipart20210221-4-1qjnu0d_html_770aba383af378ff.png)
+![](RackMultipart20210221-4-1f17f6m_html_770aba383af378ff.png)
 
 **APPLICATION UI:**
 
-![](RackMultipart20210221-4-1qjnu0d_html_95912c6e4f024056.png)
+![](RackMultipart20210221-4-1f17f6m_html_95912c6e4f024056.png)
 
 **Fig.** Home page of our Application
 
-![](RackMultipart20210221-4-1qjnu0d_html_fdda7e967cdde75.gif)
+![](RackMultipart20210221-4-1f17f6m_html_fdda7e967cdde75.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
-![](RackMultipart20210221-4-1qjnu0d_html_7654f791b53a829a.png)
+![](RackMultipart20210221-4-1f17f6m_html_7654f791b53a829a.png)
 
 **Fig.** After the image is converted as text
 
-![](RackMultipart20210221-4-1qjnu0d_html_2b0ad868795e4c50.jpg)
+![](readme/test.jpg)
 
 **Fig.** Actual image uploaded to the application
 
@@ -149,7 +149,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 This web application can be further refined for converting the image into the text. This application make use for the large texted image into text document in a simple way. It is has the fantastic future in the AI. This application is simply amazing and we hope you really liked the solution proposed for the use of Enterprise AI. Make sure you watch the Video Presentation, the link for which is provided at the beginning of this document.
 
-![](RackMultipart20210221-4-1qjnu0d_html_cef163aca088473b.gif)
+![](RackMultipart20210221-4-1f17f6m_html_cef163aca088473b.gif)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 

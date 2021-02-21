@@ -123,19 +123,19 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 **WORKFLOW:**
 
-![](readme/image13.jpg)
+![](readme/image10.jpg)
 
 **APPLICATION UI:**
 
-![](RackMultipart20210221-4-1f17f6m_html_95912c6e4f024056.png)
+![](readme/image11.jpg)
 
 **Fig.** Home page of our Application
 
-![](RackMultipart20210221-4-1f17f6m_html_fdda7e967cdde75.gif)
+![](readme/image12.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
-![](RackMultipart20210221-4-1f17f6m_html_7654f791b53a829a.png)
+![](readme/image13.jpg)
 
 **Fig.** After the image is converted as text
 

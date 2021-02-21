@@ -102,7 +102,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 The Architecture for this web application is described below,
 
-![](readme/image11.jpg)
+![](readme/image10.jpg)
 
 **COST SAVING:**
 
@@ -117,21 +117,19 @@ The Web application is developed to convert the printed characters in the photog
 3. Click **Submit** button.
 4. To convert another picture click **Convert Image to Text again** command.
 
-![](readme/image12.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
 **WORKFLOW:**
 
-![](readme/image10.jpg)
+![](readme/image11.jpg)
 
 **APPLICATION UI:**
 
-![](readme/image11.jpg)
+![](readme/image12.jpg)
 
 **Fig.** Home page of our Application
 
-![](readme/image12.jpg)
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 
@@ -147,7 +145,7 @@ TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineerin
 
 This web application can be further refined for converting the image into the text. This application make use for the large texted image into text document in a simple way. It is has the fantastic future in the AI. This application is simply amazing and we hope you really liked the solution proposed for the use of Enterprise AI. Make sure you watch the Video Presentation, the link for which is provided at the beginning of this document.
 
-![](RackMultipart20210221-4-1f17f6m_html_cef163aca088473b.gif)
+
 
 TCS Inframind Prototype &amp; Video Submission Sri Manakula Vinayagar Engineering College
 

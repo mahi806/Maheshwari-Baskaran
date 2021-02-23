@@ -14,7 +14,7 @@ def upload_file():
       f = request.files['file']
       file_type = ((secure_filename(f.filename)).split('.'))[-1]
       file_name = 'tmp.'+file_type
-      if 'jpg' == file_type or 'png' == file_type:
+      if 'jpg' == file_type or 'png' == file_type or 'jpeg' == file_type:
           f.save(file_name)
           try:
               text = im2txt(file_name)
